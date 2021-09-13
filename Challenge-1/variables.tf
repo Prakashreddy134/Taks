@@ -55,4 +55,5 @@ variable "protocol" {
 
 variable "serviceaccountjson"{
  type = string 
+ default = "~/test.json"
 }
